@@ -1,0 +1,22 @@
+
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; background-color: aliceblue;}
+#nav{background-color: #4387E3; top: 0; width: 100%; height: 100px; left: 0; float: left 10px ; border-radius: 10px; display: flex; border-color: rgb(46, 73, 133); border-style: solid; box-shadow: 2px 2px 2px; padding: 5px ;}
+li {text-decoration: none; list-style-type: none; display: inline; padding: 40px; font-size: 40px;}
+a{text-decoration: none; color: white;}
+a:hover{background-color: rgb(28, 99, 192); border-radius: 10px; }
+
+#footer{background-color: #4387E3; position: fixed; bottom:  0; width: 100%; height: 100px; left: 0; border-radius: 10px; color: white;text-align: center; padding: 5px;}
+#voorstellen {border-style: solid; margin-top:200px; width: 50%; margin-left: 25%; text-align: center; border-radius: 40px;background-color: white; border-color: #4387E3;}
+img{border-radius: 5px;}
+.opleidingen{margin-top: 200px; margin-left: 25%; padding-bottom: 50px; height;}
+table{padding: 8%; width: 50%;; text-align: center; border-style: solid; border-color: #4387E3; border-radius: 4px 4px 4px 4px; background-color:white ; border-radius: 5px;} 
+
+#form{ padding-bottom: 50px; background-color: aliceblue; margin-top: 200px;}
+.hidden{display: none; height: 20px;}
+input{width: 200px; border-radius: 5px; border-color: #4387E3;}
+label{display: inline-block; width: 150px;  text-align: left;}
+fieldset{text-align: center; padding-right: 50px; border:none;}
+#button{background-color: #4387E3; color: white; height: 50px; width: 230px;}
+#button:active{background-color: aqua;}
+textarea{width: 400px; height: 100px; border-color: #4387E3; border-radius: 5px;} 
+legend{font-size: 25px;}
